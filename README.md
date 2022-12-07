@@ -1,3 +1,27 @@
+# References
+* Import [Google Font](https://developers.google.com/fonts/docs/css2) in css using [`@import url`](https://www.w3schools.com/cssref/pr_import_rule.php#:~:text=The%20%40import%20rule%20allows%20you,import%20to%20be%20media%2Ddependent.) tag
+
+* [box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing#try_it) Setting this to `content-box` may increase the width of rendered element if padding is added. Setting this to `border-box` will push the contents of the element inside to make space for padding, in this case however the width of the rendered element remains unchanged. [Youtube](https://youtu.be/WlGQdgy-M6w)
+* [difference between display: inline and display: inline-block](https://www.w3schools.com/css/css_inline-block.asp) <br/>
+`display: inline` displays the element within the line <br/> 
+`display: inline-block` displays the element within the line but allows specifying a width & height for the element, also respects padding/margin  at top and bottomm <br/>
+`display: block` same as inline-block but adds a line break after the element, so each element is displayed in a new line.
+
+
+# Important Concepts
+
+* [PDF Slide](https://github.com/academind/react-complete-guide-code/blob/03-react-basics-working-with-components/slides/slides.pdf)
+* [JSX (Javascript XML)](https://reactjs.org/docs/introducing-jsx.html) JSX is a non-standard xml syntax enabled for javascript projects
+* [What are React Components]() A component is a JS function that typically returns some HTML (or, to be precise: JSX) code which will be shown on the screen when that component is used.
+* [How to pass data to Components using props](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595438#overview)
+* [How to create wrapper components using Children](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595454#overview)
+* [How is JSX internally works using React.createElement()](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595464#overview)
+
+
+# Useful links
+* [Creating a React App](https://reactjs.org/docs/create-a-new-react-app.html)
+* [Error while creating new React app ("You are running `create-react-app` 4.0.3, which is behind the latest release (5.0.0)")](https://stackoverflow.com/questions/70358474/error-while-creating-new-react-app-you-are-running-create-react-app-4-0-3-w/70358556#70358556)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
