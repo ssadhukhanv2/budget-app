@@ -12,9 +12,9 @@
 
 * [PDF Slide](https://github.com/academind/react-complete-guide-code/blob/03-react-basics-working-with-components/slides/slides.pdf)
 * [JSX (Javascript XML)](https://reactjs.org/docs/introducing-jsx.html) JSX is a non-standard xml syntax enabled for javascript projects
-* [What are React Components]() A component is a JS function that typically returns some HTML (or, to be precise: JSX) code which will be shown on the screen when that component is used.
-* [How to pass data to Components using props](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595438#overview)
-* [How to create wrapper components using Children](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595454#overview)
+* [React Components]() A component is a JS function that typically returns some HTML (or, to be precise: JSX) code which will be shown on the screen when that component is used.
+* [Passing data to Components using props](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595438#overview)
+* [Creating Wrapper components(Card) using props.children](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595454#overview)
 * [How is JSX internally works using React.createElement()](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595464#overview)
 
 
